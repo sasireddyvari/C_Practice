@@ -1,0 +1,35 @@
+#include<stdio.h>
+#include<conio.h>
+void bubblesort(int a[],int n)
+{
+	int i,j,temp;
+	bool swapped;
+	for(i=1;i<n;i++)//passes from 1 to n-1
+	{
+	//	swapped=false;
+	 for(j=0;j<n-i;j++)//n-i iterations for every pass
+	 {
+	   if(a[j]>a[j+1])
+	   {
+   		temp=a[j+1];
+   		a[j+1]=a[j];
+   		a[j]=temp;
+   //		swapped=true;
+	   }
+   	 }
+   	// if(swapped==false)// if there is no swapping then already sorted so break
+   	 //break;
+	}
+}
+main()
+{
+   int n,a[20],i;
+   printf("Enter array size:");
+   scanf("%d",&n);
+   for(i=0;i<n;i++)
+    scanf("%d",&a[i]);
+   bubblesort(a,n);
+   	for(i=0;i<n;i++)
+     printf("%d\t",a[i]);
+  getch();
+}

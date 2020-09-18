@@ -1,0 +1,6 @@
+D:\wipro\programs\sum of digits untill single digit\sum of digits untill single digit\bin\Debug\sum of digits untill single digit.exe.config
+D:\wipro\programs\sum of digits untill single digit\sum of digits untill single digit\bin\Debug\sum of digits untill single digit.exe
+D:\wipro\programs\sum of digits untill single digit\sum of digits untill single digit\bin\Debug\sum of digits untill single digit.pdb
+D:\wipro\programs\sum of digits untill single digit\sum of digits untill single digit\obj\Debug\sum of digits untill single digit.csprojResolveAssemblyReference.cache
+D:\wipro\programs\sum of digits untill single digit\sum of digits untill single digit\obj\Debug\sum of digits untill single digit.exe
+D:\wipro\programs\sum of digits untill single digit\sum of digits untill single digit\obj\Debug\sum of digits untill single digit.pdb

@@ -1,0 +1,24 @@
+#include<stdio.h>
+main()
+{
+	printf("%%");
+    printf("hello,");
+	printf("world\n");
+	printf("Hello\n");
+	printf("\n");
+	printf("%d",'\n');
+	printf("%c");
+	printf("\n");
+	printf("%d");
+	printf("\n");
+	printf("\n");
+	printf("\b");
+	printf("\t");
+   int a,b;
+   a=5;
+   b=9;
+   printf("\n%d\n%d",a,b);
+   	printf("\"");
+   		printf("\n");
+   printf("\\");
+}

@@ -1,0 +1,6 @@
+D:\wipro\programs\sort the substring\sort the substring\bin\Debug\sort the substring.exe.config
+D:\wipro\programs\sort the substring\sort the substring\bin\Debug\sort the substring.exe
+D:\wipro\programs\sort the substring\sort the substring\bin\Debug\sort the substring.pdb
+D:\wipro\programs\sort the substring\sort the substring\obj\Debug\sort the substring.csprojResolveAssemblyReference.cache
+D:\wipro\programs\sort the substring\sort the substring\obj\Debug\sort the substring.exe
+D:\wipro\programs\sort the substring\sort the substring\obj\Debug\sort the substring.pdb

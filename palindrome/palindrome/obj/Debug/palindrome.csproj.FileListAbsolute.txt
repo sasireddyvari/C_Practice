@@ -1,0 +1,6 @@
+D:\wipro\programs\palindrome\palindrome\bin\Debug\palindrome.exe.config
+D:\wipro\programs\palindrome\palindrome\obj\Debug\palindrome.csprojResolveAssemblyReference.cache
+D:\wipro\programs\palindrome\palindrome\bin\Debug\palindrome.exe
+D:\wipro\programs\palindrome\palindrome\bin\Debug\palindrome.pdb
+D:\wipro\programs\palindrome\palindrome\obj\Debug\palindrome.exe
+D:\wipro\programs\palindrome\palindrome\obj\Debug\palindrome.pdb
